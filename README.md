@@ -1,2 +1,2 @@
 # Machine-Learning
-These are the few experiments that I have done in my course work
+Sem 7 - Machine Learning Lab coursework
