@@ -81,5 +81,3 @@ for i in range(100):
     
 plt.scatter(x,y)
 plt.plot(x,a+b*x)
-
-print("Heloo please delete this line");
