@@ -81,3 +81,5 @@ for i in range(100):
     
 plt.scatter(x,y)
 plt.plot(x,a+b*x)
+
+print("This statement isfor testing")
